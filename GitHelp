@@ -1,5 +1,5 @@
 git init - initilizing your project
-git remote add origin link - connecting url with project
+git remote add origin "link" - connecting url with project
 create file .gitignore - hiding trash files/file that nobody needs to see
 
 git add - pushing the selected file
